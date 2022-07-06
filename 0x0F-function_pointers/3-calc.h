@@ -1,3 +1,6 @@
+#include <3-calc.h>
+#include <stdlib.h>
+#include <stdio.h>
 #ifndef _HEADER_
 #define _HEADER_
 /**
